@@ -1,0 +1,17 @@
+# 🦠 AI-Based Malaria Parasite Detection
+
+**Project:** Hackathon Submission – AI for Healthcare
+
+## Problem
+Manual malaria diagnosis is time-consuming and requires trained technicians. Rural areas often lack access to professionals.
+
+## Solution
+This Streamlit app uses a CNN (Transfer Learning) model to detect malaria parasites from blood smear images. The app provides:
+- Real-time parasite detection
+- Confidence scores
+- Symptom-based advisory
+
+## Usage
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
